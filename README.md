@@ -1,6 +1,8 @@
 
-Curso: K3151  
-Email de contacto: hamamurasantiago@frba.utn.edu.ar 
+## Business Intelligence Project
+
+![DER](DER_BI.jpg)
+
 
 | Integrantes        | Legajo    |
 | ------------------ | --------- |
@@ -8,3 +10,5 @@ Email de contacto: hamamurasantiago@frba.utn.edu.ar
 | Erazún, Ivan       | 172.797-7 |
 | Ramírez, Octavio   | 172.143-4 |
 | Suarez, Tomas      | 164.373-3 |
+
+
